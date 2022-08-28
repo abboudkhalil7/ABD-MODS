@@ -1,1 +1,1 @@
-{'num':'1', 'msgs':'\nط´ظƒط±ط§ظ‹ ظ„ط£ط®طھظٹط§ط±ظƒظ… ظˆط§طھط³ط§ط¨ ط§ظ„ظ€ظ€ط¹ظ€ظ€ط±ط¨\nThank you for choosing SMWhatsApp Plus\n'}
+{'num':'1', 'msgs':'\nشكراً لأختياركم واتساب الــعــرب\nThank you for choosing SMWhatsApp Plus\n'}
