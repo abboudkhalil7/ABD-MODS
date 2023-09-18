@@ -1,10 +1,10 @@
 {
   "dialog_update": [
     {
- "version":"25.0",
- "title":"Update Disponible التحديث متاح",
- "description":"\n• [new update].\n• It contains many great new features.\n• More important fixes and improvements.\n• [تحديث جديد].\n• يحتوي على العديد من المزايا الجديد الرائعة.\n• مزيد إصلاحات وتحسينات أخرى مهمة.\n",
-"download":"https://abod-kalel.blogspot.com/2023/04/blog-post.html"
-}
+      "version": "DELTA ULTRA v5.1.2F EXTENDED",
+      "code": 17,
+      "url": "https://bit.ly/ULTRAv512E",
+      "changelog": " - EXTENDED Version"
+    }
   ]
 }
