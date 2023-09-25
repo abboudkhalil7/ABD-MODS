@@ -1,1 +1,6 @@
-
+{
+ "version":"2",
+ "title":"هل لديك تيليجرام؟",
+ "description":"إشترك الآن لتصلك بسرعة التحديثات الجديدة!",
+ "download":"https://t.me/+8-Jmxvzv7ypiZDBk"
+}
